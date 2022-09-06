@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(to bottom, rgb(93, 93, 219), white);
+}
+
+#cabecera{
+    text-align: center;
+    margin-top: 25%;
+}
+#pLogin{
+    background-color: rgb(127, 178, 229);
+    margin: 10px;
+    text-align: left;
+    padding: 20px;
+}
+.box-col{
+    text-align: center;
+    height: 100vh;
+}
+#cabLogin{
+    background-color: white;
+}

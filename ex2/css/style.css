@@ -1,0 +1,15 @@
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+#icons{
+    text-align: right;
+    margin-top: 60px;
+}
